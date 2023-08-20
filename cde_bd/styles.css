@@ -4,7 +4,10 @@ h1 {
 }
 
 h2 {
-    color: #00ff22;
+    color: hsl(276, 100%, 50%);
     text-align: center;
 }
 
+.table {
+   background-image: url("resources/bg.jpg"); 
+}

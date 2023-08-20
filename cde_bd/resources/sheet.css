@@ -12,4 +12,5 @@ th.column-headers-background, th.row-headers-background,  th.freezebar-origin-lt
 table.waffle {
     margin-left: auto;
   margin-right: auto;
+  background-image: url("resources/bg.jpg"); 
 }
