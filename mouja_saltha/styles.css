@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: hsl(276, 100%, 50%);
+    text-align: center;
+}
+
+/* .head {
+    background-image: url("resources/photo_1.jpg");
+} */
+
+/* .table {
+   background-image: url("resources/bg.jpg"); 
+} */
